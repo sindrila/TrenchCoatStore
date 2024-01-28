@@ -13,7 +13,7 @@ The administrator can add, remove, or update trench coats from the inventory usi
 
 
 # User mode
-The user can browse, and buy trench coats from the available stock. The user can also export their shopping cart to an HTML or CSV file. 
+The user can browse, and buy trench coats from the available stock. There also is an option to export the shopping cart to an HTML or CSV file, and open it in the corresponding app automatically.
 
 <img width="1252" alt="Screenshot 2024-01-28 at 18 27 35" src="https://github.com/sindrila/TrenchCoatStore/assets/115073810/0b215203-04d1-4824-bc1d-1ddf88915553">
 
